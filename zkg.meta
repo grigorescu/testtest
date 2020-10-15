@@ -1,0 +1,8 @@
+[package]
+description = Checks for the evil bit being set
+credits = Vlad Grigorescu <vlad@es.net>
+tags = network, evil, rfc3514
+
+test_command = cd tests && make
+
+script_dir = ./scripts

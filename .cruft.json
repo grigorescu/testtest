@@ -1,0 +1,23 @@
+{
+    "template": "/Users/vlad/projects/esnet/cookiecutter-zeekpackage",
+    "commit": "207bb880e5a3cd481bce9e6bb16be2bdf7c6f278",
+    "context": {
+        "cookiecutter": {
+            "project_name": "Evil Bit Checker",
+            "project_slug": "testtest",
+            "project_short_description": "Checks for the evil bit being set",
+            "project_credits": "Vlad Grigorescu <vlad@es.net>",
+            "project_namespace": "ESnet",
+            "metadata_tags": "network, evil, rfc3514",
+            "github_username": "grigorescu",
+            "copyright_owner": "Energy Sciences Network",
+            "open_source_license": "BSD license",
+            "_copy_without_render": [
+                "docs/_templates/*.html",
+                ".github/workflows/*.yml"
+            ],
+            "_template": "/Users/vlad/projects/esnet/cookiecutter-zeekpackage"
+        }
+    },
+    "directory": null
+}
